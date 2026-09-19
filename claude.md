@@ -18,9 +18,11 @@
   * *Material:* NSF-certified commercial-grade chrome or epoxy-coated wire shelving, 14–18 gauge, in restaurant/kitchen shelving profiles.
   * *Sourcing:* Direct commercial accounts with foodservice equipment distributors (e.g., Metro, Regency, WebstaurantStore) at commercial-account pricing. Pre-sized in standard depths (12"/18"/24") to eliminate job-site cutting.
   * *Anchoring:* Adjustable posts secured to the universal wall track via locking brackets — no separate wall penetration per shelf.
+  * *Wear-Point Hardware:* Locking brackets spec'd with nylon/Delrin sleeves at the post contact point (same commercial shelving families already sourced, no cost premium) rather than bare coated-metal-on-metal — this is standard on commercial wire shelving like ClosetMaid ShelfTrack and prevents chip-through at the point where shelves get repositioned.
 * **Tier 2 (The Adjustable Steel System):**
   * *Material:* Powder-coated steel vertical standards, adjustable bracket arms, pull-out wire or composite drawer bins, door-mounted spice racks.
   * *Sourcing:* Commercial OEM storage suppliers (e.g., Rev-A-Shelf, Container Store Elfa-style component makers, Knape & Vogt) at 40–50% off retail.
+  * *Wear-Point Hardware:* Bracket clips and pull-out bin rails spec'd with nylon/Delrin bushings at the contact/slide points to prevent powder-coat chip-through under repeated adjustment and use.
 * **Tier 3 (The Butler's Suite):**
   * *Substrates:* 3/4" Thermally Fused Laminate (TFL) over industrial-grade MDF (80% of builds to eliminate on-site painting/finishing) or wood veneer/paint-grade for kitchen-matched cabinetry.
   * *Sourcing:* 4'x8' sheets via regional architectural panel suppliers; cabinetry hardware (soft-close hinges/slides) via commercial cabinet hardware distributors.
@@ -142,3 +144,4 @@ $$\text{Linear Foot Retail Price} = \frac{\text{Direct Material Cost/ft} + \text
 * **Lifetime Structural Guarantee:** Covers wall anchoring integrity, shelving/track failure, and structural joinery for homeownership duration.
 * **5-Year Mechanical Warranty:** Covers soft-close drawer slides, hinges, and edge-banding.
 * **Weight Limits:** 250 lbs/linear foot for Tier 1 (commercial wire shelving rating); 150 lbs/linear foot for Tiers 2 & 3.
+* **Coating Wear Exclusion:** Powder-coat/epoxy wear at moving contact points (bracket clips, drawer slide rails) is cosmetic only and excluded from the Lifetime Structural Guarantee — the underlying steel's load rating is unaffected. Field techs carry a touch-up powder-coat pen for warranty-visit spot repair.
